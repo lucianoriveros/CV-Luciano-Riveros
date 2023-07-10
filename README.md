@@ -1,7 +1,7 @@
 # CV-Luciano-Riveros
 <center>
-<h1>Página desarrollada como trabajo final para la plataforma Ticmas</h1>
-<h2><a href="https://lucianoriveros.github.io/CV-Luciano-Riveros/" target="_blank">Ver Proyecto</a></h2>
+<h2>Página desarrollada como trabajo final para la plataforma Ticmas</h2>
+<h3><a href="https://lucianoriveros.github.io/CV-Luciano-Riveros/" target="_blank">Ver Proyecto</a></h3>
 
 <h3>Vista de la página</h3>
 </center>
